@@ -1,0 +1,18 @@
+{
+    "name": "michalhepner/collection",
+    "type": "library",
+    "description": "A library that helps working with array-like datasets in PHP in OOP way.",
+    "license": "AGPL-3.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "MichalHepner\\Collection\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Michał Hepner",
+            "email": "michal.hepner@gmail.com"
+        }
+    ],
+    "require": {}
+}
